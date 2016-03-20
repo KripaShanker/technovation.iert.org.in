@@ -699,7 +699,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', end
     text-align: center;
 }
 .sprout_menu .main_link{
-	background:url('../image/logo.jpg');
+	background:url('../images/logo.jpg');
 	background-size: cover;
 	background-position: 40% 50%;
 }
