@@ -269,7 +269,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 
 		<div class="peoples peoples_count_7">
 						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="http://cdn2.harbour.space/sites/default/files/faculty/Omelchenko.png" alt="" /></figure>
+				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
 				<strong class="peoples__item__name">
 					<span class="peoples__item__name__first"><?php
 										/*
@@ -293,7 +293,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 										?>	</span>
 			</a>
 						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="http://cdn3.harbour.space/sites/default/files/faculty/Peter_Pickl.png" alt="" /></figure>
+				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
 				<strong class="peoples__item__name">
 					<span class="peoples__item__name__first"><?php
 										/*
@@ -317,7 +317,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 										?>	</span>
 			</a>
 						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="http://harbour.space/sites/default/files/faculty/Mazin.png" alt="" /></figure>
+				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
 				<strong class="peoples__item__name">
 					<span class="peoples__item__name__first"><?php
 										/*
