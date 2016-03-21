@@ -1,5 +1,6 @@
 # technovation.iert.org.in
-techfest of Institute of engineering and rural technology allahabad
+Institute of Engineering and Rural Technology, Allahabad presents it's annual tech fest "TECHNOVATION" explore your potential.
+
 The main objective of using the github is to contribute towars the project from home and you can also add it to your resume.
 
 ##Tips on using Github:-
@@ -27,6 +28,7 @@ d. git push
 It will ask your username and pasword and you are done.
 
 **Note:-** If anything goes wrong in between, delete every things and start working fresh by 
+
 "git clone https://github.com/KripaShanker/technovation.iert.org.in.git"
 
 if you need any help just drop a email at
