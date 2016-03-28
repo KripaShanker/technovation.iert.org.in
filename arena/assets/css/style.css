@@ -582,7 +582,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fceabb', end
 #slide-3{
 	position:relative;
 	background:url('../../assets/images/eventback.jpg') center center fixed no-repeat;
-	background-size:cover;
+	 background-size:100% 100%;
 	-moz-background-size:cover;
 	-webkit-background-size:cover;
 	-o-background-size:cover;
