@@ -42,7 +42,7 @@ if(isset($_GET['submit'])){
   <div class="rows">
    <div class="col-lg-3"></div>
    <div class="col-lg-6">
-    <form class="form-signin" method="POST" action="#">
+    <form class="form-signin" method="GET" action="#">
 
      <h2 align="center">Registration for Events</h2>
      <h3 align="center">Technovation 2k16</h3> 
@@ -107,7 +107,7 @@ if(isset($_GET['submit'])){
 
 
 
- <h1 align="center"><a class="btn btn-primary" type="submit" name="submit" href="http://technovation.iert.org.in">Submit</a></h1>
+ <h1 align="center"><input type="submit" class="btn btn-primary" name="submit" value="Submit"></h1>
 
 </form>
 On Successful submission, you will recieve a email.
