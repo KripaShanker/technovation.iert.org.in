@@ -16,7 +16,7 @@ if(isset($_GET['submit'])){
   mail($email,$subject,$txt,$headers);
   $data=$name+" "+$event+" "+$email+" "+$facebookid+" "+$college+" "+$year+" "+$branch;
   if(mail("iamkripashanker@gmail.com", "technovation reg", $data) && mail($email,$subject,$txt,$headers))
-    $status="You are successfuly registed";
+    $status="You are successfuly registed"+$data;
 
 }
 
