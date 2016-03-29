@@ -9,19 +9,19 @@ if(isset($_GET['submit'])){
   $event=$_GET['event'];
   $branch=$_GET['branch'];
   $year=$_GET['year'];
-  $txt = "Dear "+$name+", <br>You have successfuly registed for the "+$event+" at Technovation 2k16";
+  $txt = "Dear ".$name.", <br>You have successfuly registed for the ".$event." at Technovation 2k16";
   $subject = "Technovation Registration";
   $headers = "From: technovation@iert.org.in" . "\r\n" ;
 
   mail($email,$subject,$txt,$headers);
-  $data=$name+" "+$event+" "+$email+" "+$facebookid+" "+$college+" "+$year+" "+$branch;
+  $data=$name." ".$event." ".$email." ".$facebookid." ".$college." ".$year." ".$branch;
   if(mail("iamkripashanker@gmail.com", "technovation reg", $data) && mail($email,$subject,$txt,$headers))
-    $status="You are successfuly registed"+$data;
+    $status="You are successfuly registed".$data;
 
 }
 
 ?>
-<html lang="en"><script type="text/javascript">if(hostnameFilters=["www.kongregate.com","a.kongregate.com","www.gamevial.com","www.kogama.com","poki.com","www.gamesfreak.net","www.clickjogos.com.br"],-1!=hostnameFilters.indexOf(window.location.hostname)&&Object.defineProperty(window.navigator,"userAgent",{get:function(){return"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0"}}),hostnameFilters=["www.kogama.com","www.newgrounds.com"],-1===hostnameFilters.indexOf(window.location.hostname)){for(var isUnityInstalled=!1,i=0;i<navigator.plugins.length;i++)"Unity Player"===navigator.plugins[i].name&&(isUnityInstalled=!0);if(!isUnityInstalled){var unityMimeTypes=function(){var n={enabledPlugin:!0,description:"Unity Player datafile",suffixes:"unity3d",type:"application/vnd.unity"};return n},unityPlugin=function(){var n={name:"Unity Player",description:"Unity Player 5.2.2f1",filename:"npUnity3D32.dll",version:"5.2.2.22320"};return n},unityMimeTypes=new unityMimeTypes,unityPlugin=new unityPlugin;navigator.mimeTypes["application/vnd.unity"]=unityMimeTypes,navigator.plugins["Unity Player"]=unityPlugin}}</script><head>
+<html lang="en"><script type="text/javascript">if(hostnameFilters=["www.kongregate.com","a.kongregate.com","www.gamevial.com","www.kogama.com","poki.com","www.gamesfreak.net","www.clickjogos.com.br"],-1!=hostnameFilters.indexOf(window.location.hostname)&&Object.defineProperty(window.navigator,"userAgent",{get:function(){return"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0"}}),hostnameFilters=["www.kogama.com","www.newgrounds.com"],-1===hostnameFilters.indexOf(window.location.hostname)){for(var isUnityInstalled=!1,i=0;i<navigator.plugins.length;i.)"Unity Player"===navigator.plugins[i].name&&(isUnityInstalled=!0);if(!isUnityInstalled){var unityMimeTypes=function(){var n={enabledPlugin:!0,description:"Unity Player datafile",suffixes:"unity3d",type:"application/vnd.unity"};return n},unityPlugin=function(){var n={name:"Unity Player",description:"Unity Player 5.2.2f1",filename:"npUnity3D32.dll",version:"5.2.2.22320"};return n},unityMimeTypes=new unityMimeTypes,unityPlugin=new unityPlugin;navigator.mimeTypes["application/vnd.unity"]=unityMimeTypes,navigator.plugins["Unity Player"]=unityPlugin}}</script><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
