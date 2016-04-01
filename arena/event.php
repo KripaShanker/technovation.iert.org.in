@@ -1,11 +1,14 @@
 <?php
-/*
 error_reporting(E_ALL ^ E_DEPRECATED);
 //include('config.php');
 
 mysql_connect('localhost','root','');
 mysql_select_db("tv");
-*/
+
+										$id=$_GET['id']; 
+										$q=mysql_query("select * from event WHERE name='$id'");
+										$rows=mysql_fetch_array($q);
+
 ?>
  
 
@@ -102,14 +105,12 @@ mysql_select_db("tv");
 				<h1 class="program-intro__title">
 										<span class="program-intro__title__part">
 										<?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
+										
+									
 										echo " $rows[name] ";
-										*/
-										$id=$_GET['id'];
-										echo $id;
+									
+										
+									
 										?>
 										
 										</span>
@@ -117,13 +118,12 @@ mysql_select_db("tv");
 									</h1>
 				<strong class="program-intro__type"></strong>
 				<div class="program-intro__text"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[tag] ";
-										*/
-										echo "";
+										
+										if($rows['motivation'])
+										echo " $rows[motivation] ";
+										else
+										echo"Explore Your Potential";
+										
 										?></div>
 			</div>
 			<i class="program-intro__mouse mouse">
@@ -157,13 +157,13 @@ mysql_select_db("tv");
 			<section class="overview__content overview__content_1">
 						
 										<?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[about] ";
-										*/
-										echo "To Be Updated Soon..";
+										
+										if($rows['desc'])
+										echo " $rows[desc] ";
+										else
+										echo "This is one of the best event of Technovation 2k16. We invite you to be a part of it and have a lot fun";
+										
+										
 										?>
 			
 			</section>	
@@ -195,13 +195,13 @@ mysql_select_db("tv");
 			<section class="overview__content overview__content_1">
 						
 										<?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
+										
+										if($rows['rules'])
 										echo " $rows[rules] ";
-										*/
-										echo "To Be Updated Soon..";
+										else
+										echo "Rules will be provided onsite.";
+										
+										//echo "To Be Updated Soon..";
 										?>		
 			</section>	
 			</div>
@@ -209,46 +209,7 @@ mysql_select_db("tv");
 			</section>
 			<!--/content -->
 			
-			<!--	//////////////////////////////  -->
 		
-			<!-- Overview -->
-			<section class="section" id="overview">
-			<div class="section__content i-content">
-			<!--
-			<i class="section__decor"></i>
-			<h2 class="section__title title">
-			<span class="title__part"> EVENT DESCRIPTION</span>
-			</h2> 
-			-->
-		   <article class="overview">
-			<!-- bar -->
-			<aside class="overview__bar">
-			<div class="overview__bar__content">
-			<div class="overview__nav">
-			<div class="overview__nav__item overview__nav__item_active" data-degree="Foundation">PRIZE</div>						
-			</div>							
-			</div>
-			</aside>
-			<section class="overview__content overview__content_1">
-						
-										<?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[prize] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	
-			
-			</section>	
-			</div>
-		    <!--/year -->
-			</section>
-			<!--/content -->
-			
-			
-			<!--	//////////////////////////////  -->
 	
 <!-- Faculty -->
 <section class="faculty faculty_single section section_branded" id="faculty">
@@ -267,79 +228,176 @@ Harbour.Space on our Twitter and Facebook.</p>
 		</div>
 -->
 
-		<div class="peoples peoples_count_7">
-						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
-				<strong class="peoples__item__name">
-					<span class="peoples__item__name__first"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[mem1] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	 </span>
-				<!--	<span class="peoples__item__name__second">Omelchenko</span>  -->
+		     <div class="peoples peoples_count_7">
+			 
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['lead'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[lead] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
 				</strong>
-				<span class="peoples__item__note"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[con1] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	</span>
-			</a>
-						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
-				<strong class="peoples__item__name">
-					<span class="peoples__item__name__first"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[mem2] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	 </span>
-			<!--		<span class="peoples__item__name__second">PICKL</span> -->
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['lead_contact'])
+									echo " $rows[lead_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			 <!-- coordinator div close -->
+			 
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['member1'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[member1] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
 				</strong>
-				<span class="peoples__item__note"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[con2] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	</span>
-			</a>
-						<a href="#" class="peoples__item peoples__item_count_7">
-				<figure class="peoples__item__photo"><img src="" alt="" /></figure>
-				<strong class="peoples__item__name">
-					<span class="peoples__item__name__first"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[mem3] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	 </span>
-				<!--	<span class="peoples__item__name__second"> </span> -->
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['member1_contact'])
+									echo " $rows[member1_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			<!-- coordinator div close -->
+			
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['member2'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[member2] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
 				</strong>
-				<span class="peoples__item__note"><?php
-										/*
-										$id=$_GET['id']; 
-										$q=mysql_query("select * from event WHERE name='$id'");
-										$rows=mysql_fetch_array($q);
-										echo " $rows[con3] ";
-										*/
-										echo "To Be Updated Soon..";
-										?>	</span>
-			</a>
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['member2_contact'])
+									echo " $rows[member2_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			<!-- coordinator div close -->
+			
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['member3'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[member3] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
+				</strong>
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['member3_contact'])
+									echo " $rows[member3_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			<!-- coordinator div close -->
+					
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['member4'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[member4] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
+				</strong>
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['member4_contact'])
+									echo " $rows[member4_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			<!-- coordinator div close -->
+
+			 <!-- coordinator div -->
+			 <?php
+			 if($rows['member5'])
+			 {
+				echo "
+						<div href='#' class='peoples__item peoples__item_count_7'>
+				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<strong class='peoples__item__name'>
+					<span class='peoples__item__name__first'>
+					
+										 $rows[member5] 
+										
+				    </span>
+				<!--	<span class='peoples__item__name__second'>Omelchenko</span>  -->
+				</strong>
+				<span class='peoples__item__note'>
+				";
+				                     if($rows['member5_contact'])
+									echo " $rows[member5_contact]";
+								
+						echo "				
+				</span>
+			        </div>
+					";
+			 }
+					?>
+			<!-- coordinator div close -->
+						
 			
 					</div>
 	</div>
