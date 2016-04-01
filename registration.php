@@ -9,14 +9,17 @@ if(isset($_GET['submit'])){
   $event=$_GET['event'];
   $branch=$_GET['branch'];
   $year=$_GET['year'];
-  $txt = "Dear ".$name.", <br>You have successfuly registed for the ".$event." at Technovation 2k16";
+  $rollno=$_GET['rollno'];
+  $txt = "Dear ".$name.", \nYou have successfuly registed for the ".$event." at Technovation 2k16\nadmin\ntechnovation@iert.org.in";
   $subject = "Technovation Registration";
   $headers = "From: technovation@iert.org.in" . "\r\n" ;
 
-  mail($email,$subject,$txt,$headers);
-  $data=$name." ".$event." ".$email." ".$facebookid." ".$college." ".$year." ".$branch;
+//  mail($email,$subject,$txt,$headers);
+  $data=$name." ".$event." ".$email." ".$facebookid." ".$college." ".$year." ".$branch." ".$contact." ".$rollno;
   if(mail("iamkripashanker@gmail.com", "technovation reg", $data) && mail($email,$subject,$txt,$headers))
     $status="You are successfuly registed".$data;
+  else
+   $error="An error occuered, please try again after sometime";
 
 }
 
@@ -48,21 +51,28 @@ if(isset($_GET['submit'])){
      <h3 align="center">Technovation 2k16</h3> 
      <br>
      <?php
-        if(isset($status)){
-          unset($status)
-     ?>
-     <div class="alert alert-success">You are successfuly registed</div>
-     <?php
-      }
-     ?>
-     <label for="InputName">Enter Name</label><input type="text" name="name" class="form-control" placeholder="Enter name" required=""><br>
+     if(isset($status)){
+         //echo $status;
+        unset($status);
+      ?>
+      <div class="alert alert-success">You are successfuly registed</div>
+      <?php
+    }else if(isset($error)){
+      unset($error);
+      ?>
+      <div class="alert alert-danger">An error occuered, please try again after sometime</div>
+      <?php 
+
+    }
+    ?>
+    <label for="InputName">Enter Name</label><input type="text" name="name" class="form-control" placeholder="Enter name" required=""><br>
 
 
-     <label></label>	
+    <label></label>	
 
-     <label for="InputName">Event Name</label><input typ="text" class="form-control" name="event" placeholder="e.g. robowar"><br>
-     <label></label>	<br>
-     <div class="col-lg-6">
+    <label for="InputName">Event Name</label><input typ="text" class="form-control" name="event" placeholder="e.g. robowar"><br>
+    <label></label>	<br>
+    <div class="col-lg-6">
       <label for="Branch">Branch</label><br>
       <input type="text" name="branch" placeholder="e.g. Computer Science & Engineering" class="form-control">
 
