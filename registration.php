@@ -120,7 +120,7 @@ if(isset($_GET['submit'])){
  <h1 align="center"><input type="submit" class="btn btn-primary" name="submit" value="Submit"></h1>
 
 </form>
-On Successful submission, you will recieve a email.
+On Successful submission, you will recieve an email.
 <h1>    </h1>
 </div>
 <div class="col-lg-3"></div>
