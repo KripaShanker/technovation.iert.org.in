@@ -195,18 +195,18 @@ a:hover img.portfo-layout {opacity: 1}
     <h2>Menu</h2>
     <ul id="menu-mobile-menu" class="">
 	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="#">Events</a></li>
-	<li id="menu-item-331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-331 bgnav childindent "><a href="codewave.html">&nbsp;&nbsp;— &nbsp;&nbsp;CodeWave</a></li>
-	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329 bgnav childindent "><a href="blitz.html">&nbsp;&nbsp;— &nbsp;&nbsp;Blitzobotics</a></li>
-	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="apex.html">&nbsp;&nbsp;— &nbsp;&nbsp;Apex</a></li>
-	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="moxie.html">&nbsp;&nbsp;— &nbsp;&nbsp;Moxie</a></li>
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="liter8.html">&nbsp;&nbsp;— &nbsp;&nbsp;Liter-8</a></li>
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="paheli.html">&nbsp;&nbsp;— &nbsp;&nbsp;Paheli</a></li>	
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="mirth.html">&nbsp;&nbsp;— &nbsp;&nbsp;Mirth</a></li>
+	<li id="menu-item-331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-331 bgnav childindent "><a href="codewave.php">&nbsp;&nbsp;— &nbsp;&nbsp;CodeWave</a></li>
+	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329 bgnav childindent "><a href="blitz.php">&nbsp;&nbsp;— &nbsp;&nbsp;Blitzobotics</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="apex.php">&nbsp;&nbsp;— &nbsp;&nbsp;Apex</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="moxie.php">&nbsp;&nbsp;— &nbsp;&nbsp;Moxie</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="liter8.php">&nbsp;&nbsp;— &nbsp;&nbsp;Liter-8</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="paheli.php">&nbsp;&nbsp;— &nbsp;&nbsp;Paheli</a></li>	
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="mirth.php">&nbsp;&nbsp;— &nbsp;&nbsp;Mirth</a></li>
 	
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="coordinators.html">Coordinators</a></li>	
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="techteam.html">Technical Team</a></li>
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="alumni.html#sponsors">Sponsors</a></li>
-	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="alumni.html#alumni">Alumni</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="coordinators.php">Coordinators</a></li>	
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="techteam.php">Technical Team</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="alumni.php#sponsors">Sponsors</a></li>
+	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="alumni.php#alumni">Alumni</a></li>
 	
 </ul></div>
 	<!--Menu in Responsive template-->
@@ -233,7 +233,7 @@ a:hover img.portfo-layout {opacity: 1}
 		</div>
 	</div>
 		<div class="logo">
-		<a href="index.html">
+		<a href="index.php">
 			<img style="" width="15%" src="wp-content/uploads/2014/05/logo.png" alt="LOGO"/>
 		</a>
 	</div>
@@ -254,7 +254,7 @@ a:hover img.portfo-layout {opacity: 1}
 <div class="responsiveheader-wrapper"></div>			<div id="leftsidebar">
 	<div class="lefttop">
 				<div class="logo" style="padding-top: 40px; padding-bottom: 40px;">
-			<a href="index.html">
+			<a href="index.php">
 				<img style="width : 167px; height: 30px;" src="wp-content/uploads/2014/05/logo.png" alt="LOGO"/>
 			</a>
 		</div>
@@ -265,29 +265,29 @@ a:hover img.portfo-layout {opacity: 1}
 		<div class="menu_inner">
 				<ul id="mega_main_menu_ul" class="mega_main_menu_ul"><li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-141 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns2"><a href="#" class="item_link  with_icon"><i class="fa fa-behance-square"></i> <span><span class="link_text">Events</span></span></a>
 <ul class="mega_dropdown" style=" padding-right: 30px;  padding-bottom: 80px;  background-image:url(wp-content/uploads/2014/05/navside_purpose.jpg);background-repeat:no-repeat;background-attachment:scroll;background-position:bottom left;background-size:auto;" >
-	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-chain-broken"></i> <span><a href="codewave.html"><span class="link_text">CodeWave</span></a></span></span>
+	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-chain-broken"></i> <span><a href="codewave.php"><span class="link_text">CodeWave</span></a></span></span>
 	</li>
-	<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-leaf"></i> <span><a href="blitz.html"><span class="link_text">Blitzobotics</span></a></span></span>
+	<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-leaf"></i> <span><a href="blitz.php"><span class="link_text">Blitzobotics</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="apex.html"><span class="link_text">Apex</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="apex.php"><span class="link_text">Apex</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="moxie.html"><span class="link_text">Moxie</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="moxie.php"><span class="link_text">Moxie</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="liter8.html"><span class="link_text">Liter-8</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="liter8.php"><span class="link_text">Liter-8</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="paheli.html"><span class="link_text">Paheli</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="paheli.php"><span class="link_text">Paheli</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="mirth.html"><span class="link_text">Mirth</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="mirth.php"><span class="link_text">Mirth</span></a></span></span>
 	</li>
 
 </ul></li>
-<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="coordinators.html" class="item_link  with_icon"><i class="fa fa-caret-square-o-left"></i> <span><span class="link_text">Coordinators</span></span></a>
+<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="coordinators.php" class="item_link  with_icon"><i class="fa fa-caret-square-o-left"></i> <span><span class="link_text">Coordinators</span></span></a>
 </li>
-<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="techteam.html" class="item_link  with_icon"><i class="fa fa-reddit"></i> <span><span class="link_text">Technical Team</span></span></a>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="techteam.php" class="item_link  with_icon"><i class="fa fa-reddit"></i> <span><span class="link_text">Technical Team</span></span></a>
 </li>
-<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.html#sponsors" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Sponsors</span></span></a>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.php#sponsors" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Sponsors</span></span></a>
 </li>
-<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.html#alumni" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Alumni</span></span></a>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.php#alumni" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Alumni</span></span></a>
 </li>
 </li>
 </ul><!-- /class="mega_main_menu_ul" -->
@@ -375,38 +375,38 @@ a:hover img.portfo-layout {opacity: 1}
 	
 <div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > 
 	<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > 
-	<a href="codewave.html" ><img class="size-full wp-image-9 aligncenter imgedit" src="assets/images/codewave.jpg" alt="weeding-photography" width="200"  /></a></p>
-<p style="text-align: center;"><a href='codewave.html'  class='btn mb-20 btn-success'>CodeWave</a>
+	<a href="codewave.php" ><img class="size-full wp-image-9 aligncenter imgedit" src="assets/images/codewave.jpg" alt="weeding-photography" width="200"  /></a></p>
+<p style="text-align: center;"><a href='codewave.php'  class='btn mb-20 btn-success'>CodeWave</a>
 </div> 
 
-<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="blitz.html" ><img class="size-full wp-image-10 aligncenter imgedit" src="assets/images/blitzobotrix.jpg" alt="villa-hotel" width="200" /></a></p>
-<p style="text-align: center;"><a href='blitz.html'  class='btn mb-20 btn-success'>Blitzobotics</a>
+<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="blitz.php" ><img class="size-full wp-image-10 aligncenter imgedit" src="assets/images/blitzobotrix.jpg" alt="villa-hotel" width="200" /></a></p>
+<p style="text-align: center;"><a href='blitz.php'  class='btn mb-20 btn-success'>Blitzobotics</a>
 </div> 
 
-<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" ><a href="apex.html" ><img class="aligncenter size-full wp-image-372 imgedit" src="assets/images/3.jpg" alt="demo7_bike" /></a></p>
-<p style="text-align: center;"><a href='bike/index.html'  class='btn mb-20 btn-success'>Apex</a>
+<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" ><a href="apex.php" ><img class="aligncenter size-full wp-image-372 imgedit" src="assets/images/3.jpg" alt="demo7_bike" /></a></p>
+<p style="text-align: center;"><a href='apex.php'  class='btn mb-20 btn-success'>Apex</a>
 </div> </div>
 
 <p> </p>
 
-<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > <div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="liter8.html" ><img class="aligncenter wp-image-18 size-full" src="assets/images/4.png" alt="demo4_creative" width="200" /></a></p>
-<p style="text-align: center;"><a href='moxie.html'  class='btn mb-20 btn-success'>Moxie</a>
+<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > <div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="liter8.php" ><img class="aligncenter wp-image-18 size-full" src="assets/images/4.png" alt="demo4_creative" width="200" /></a></p>
+<p style="text-align: center;"><a href='moxie.php'  class='btn mb-20 btn-success'>Moxie</a>
 </div> 
 
-<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="liter8.html" ><img class="size-full wp-image-13 aligncenter imgedit" src="assets/images/5.png" alt="agency-business" width="200" /></a></p>
-<p style="text-align: center;"><a href='liter8.html'  class='btn mb-20 btn-success'>Liter-8</a>
+<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="liter8.php" ><img class="size-full wp-image-13 aligncenter imgedit" src="assets/images/5.png" alt="agency-business" width="200" /></a></p>
+<p style="text-align: center;"><a href='liter8.php'  class='btn mb-20 btn-success'>Liter-8</a>
 </div> 
 
-<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="paheli.html" ><img class="size-full wp-image-14 aligncenter" src="assets/images/6.png" alt="freelancer"  /></a></p>
-<p style="text-align: center;"><a href='paheli.html'  class='btn mb-20 btn-success'>Paheli</a>
+<div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" > <a href="paheli.php" ><img class="size-full wp-image-14 aligncenter" src="assets/images/6.png" alt="freelancer"  /></a></p>
+<p style="text-align: center;"><a href='paheli.php'  class='btn mb-20 btn-success'>Paheli</a>
 </div> 
 </div>
 
 <p> </p>
 
 <div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' style="text-align:center"> <div class='span4  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-bottom" >
-<a href="mirth.html" ><img class="aligncenter size-full wp-image-373" src="assets/images/8.png" alt="demo3_interior" /></a></p>
-<p style="text-align: center;"><a href='mirth.html'  class='btn mb-20 btn-success'>Mirth</a>
+<a href="mirth.php" ><img class="aligncenter size-full wp-image-373" src="assets/images/8.png" alt="demo3_interior" /></a></p>
+<p style="text-align: center;"><a href='mirth.php'  class='btn mb-20 btn-success'>Mirth</a>
 </div>
 </div>
 	
