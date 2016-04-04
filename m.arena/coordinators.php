@@ -146,7 +146,7 @@ include_once 'hd.php';
 	<div class="sectioncontainer">		
 			<div class='section-header  position-center'>
 			<p id="sponsors"></p>
-		<h1>Poster &amp; Team</h1>
+		<h1>Poster Printing &amp; Design Team</h1>
 		<span class='sectionline'></span>
 		<em>The presenters of Technovation on canvas..</em>
 	</div> 
