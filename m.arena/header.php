@@ -47,6 +47,10 @@
 		.section{
 			padding:40px;
 		}
+		a:link{
+			color: #FECE1A;
+			font-weight: bold;
+		}
 	</style>
 </head>
 <body class="normaltopmargin normalbottommargin  light   movingbg  " data-id="customizer" data-title="Theme Customizer" data-direction='horizontal'  style=" background-image : url(customizer_bg.png);">
