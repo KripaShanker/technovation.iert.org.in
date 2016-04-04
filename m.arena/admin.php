@@ -13,7 +13,7 @@
 		$member3_image=$_GET['member3_image'];
 		$member4_image=$_GET['member4_image'];
 		$member5_image=$_GET['member5_image'];
-		$sql="update event set name='$name', motivation='$motivation', rules='$rules' , `desc`='$desc', member1_image='$member1_image',member2_image='$member2_image',member3_image='$member3_image',member4_image='$member4_image',member5_image='$member_image' where timestamp='$timestamp'";
+		$sql="update event set name='$name', motivation='$motivation', rules='$rules' , `desc`='$desc', member1_image='$member1_image',member2_image='$member2_image',member3_image='$member3_image',member4_image='$member4_image',member5_image='$member5_image' where timestamp='$timestamp'";
 		//echo $sql;;
 		$res=mysql_query($sql);
 		if($res)
