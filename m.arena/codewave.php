@@ -42,7 +42,7 @@
 
 
 								</p>
-								<p><a href="event.php?id=codewave">Further Details..</a></p>
+								<p><a href="event.php?id=codervation">Further Details..</a></p>
 							</div>
 						</div>
 					</div>
