@@ -224,6 +224,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 		</div>
 -->
 
+
 		     <div class="peoples peoples_count_7">
 			 
 			 <!-- coordinator div -->
