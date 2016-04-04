@@ -232,7 +232,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/default.png alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member2_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -260,7 +260,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member1_image] alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member2_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -288,7 +288,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member2_image] alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member3_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -316,7 +316,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member3_image] alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member4_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -344,7 +344,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member4_image] alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member5_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -372,7 +372,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member5_image] alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/default.png alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
