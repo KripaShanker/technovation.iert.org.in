@@ -26,7 +26,7 @@
                                     </span>
                                 </div>
                                 <p>The objective of this contest is for a robot to follow a black line on a white background, without losing the line, and navigating several 90 degree turns as well as other turns. The robot to complete the course in the shortest period of time while accurately tracking the course line from start to finish wins. Event comprises of 2 rounds: Qualifiers of round 1 will compete in the final round. Arena of round 1 will uploaded on site.</p>
-								<a href="../events.php?id=pathik" class="more">Further Detail...</a>
+								<a href="event.php?id=pathik" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                                 </div>
                                 <p>Technovation'15 presents Tron Combat,a deadly battle of fighter bots,inspired by the ununiquivocal 'natural selection theory' of Charles darwin
 						"The fittest shall survive" so roll up sleeves,tighten the bots in your brain and design a figter robot that can adopt any circumstance and wade through the ravaging crusade to rise above all as 'The ultimate survivor'. "Neither the stongest nor the most formidable shall thrive, While the most adoptable shall survive!".</p>
-						<a href="../events.php?id=troncombat" class="more">Further Detail...</a>
+						<a href="event.php?id=robowar" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
 							There is going to be knock out matches between the opponents.Remaining 4 team will go thtrough the final round. 
 							"THE_ FINAL _ SHOWDOWN" 
 							And the one team will stands out as winner.</p>
-							<a href="../events.php?id=hurdlemania" class="more">Further Detail...</a>
+							<a href="event.php?id=hurdlemania" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
 								2- The winner shall be decided, the team having greater number of goals.<br>
 								3-In case if both teams have zero goals, then winner shall be decided through points.<br>
 								4-Points shall be decided according to the number of time, ball reaches closest to the goal post.</p>
-								<a href="../events.php?id=robosoccer" class="more">Further Detail...</a>
+								<a href="event.php?id=robosoccer" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
