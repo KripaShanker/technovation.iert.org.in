@@ -1,9 +1,5 @@
 <?php
-error_reporting(E_ALL ^ E_DEPRECATED);
-//include('config.php');
-
-mysql_connect('localhost','root','');
-mysql_select_db("tv");
+include('connectdb.php');
 
 										$id=$_GET['id']; 
 										$q=mysql_query("select * from event WHERE name='$id'");
@@ -215,7 +211,7 @@ mysql_select_db("tv");
 <section class="faculty faculty_single section section_branded" id="faculty">
 	<div class="section__content i-content">
 		<h2 class="section__title title">
-			CORDINATORS
+			COORDINATORS
 			<!--
 			<span class="section__title__category">Maths as a  Second Language</span>
 			-->
@@ -236,7 +232,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/default.png alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -264,7 +260,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member1_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -276,7 +272,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 				<span class='peoples__item__note'>
 				";
 				                     if($rows['member1_contact'])
-									echo " $rows[member1_contact]";
+									echo " $rows[lead_contact]";
 								
 						echo "				
 				</span>
@@ -284,7 +280,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 					";
 			 }
 					?>
-			<!-- coordinator div close -->
+			 <!-- coordinator div close -->
 			
 			 <!-- coordinator div -->
 			 <?php
@@ -292,7 +288,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member2_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -320,7 +316,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member3_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -348,7 +344,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member4_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					
@@ -376,7 +372,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 			 {
 				echo "
 						<div href='#' class='peoples__item peoples__item_count_7'>
-				<figure class='peoples__item__photo'><img src='default.png' alt='' /></figure>
+				<figure class='peoples__item__photo'><img src=coordinator_image/$rows[member5_image] alt='' /></figure>
 				<strong class='peoples__item__name'>
 					<span class='peoples__item__name__first'>
 					

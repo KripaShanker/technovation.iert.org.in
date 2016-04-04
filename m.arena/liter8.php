@@ -1,3 +1,4 @@
+<<<<<<< HEAD:m.arena/liter8.html
 <!doctype html>
 
 <html class="no-js" lang="en-US">
@@ -55,6 +56,11 @@
 </head>
 <body class="normaltopmargin normalbottommargin  light   movingbg  " data-id="customizer" data-title="Theme Customizer" data-direction='horizontal'  style=" background-image : url(customizer_bg.png);">
 
+=======
+<?php
+    include 'header.php';
+?>
+>>>>>>> 67d3cb930ac7841df9c37c1467c96341818cfdd6:m.arena/liter8.php
     
        
         <!-- Start home section -->
@@ -92,7 +98,7 @@
                                     </span>
                                 </div>
                                 <p></p>
-								<a href="../events.php?id=spellbee" class="more">Further Detail...</a>
+								<a href="event.php?id=spellbee" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -111,7 +117,7 @@
                                     </span>
                                 </div>
                                 <p>If you believe you have innovative skills and great oratory skills, then FLIP THE MOTION beckons you.</p>
-								<a href="../events.php?id=flipthemotion" class="more">Further Detail...</a>
+								<a href="event.php?id=flipthemotion" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -130,7 +136,7 @@
                                     </span>
                                 </div>
                                 <p>Contestants are to pair among themselves with each pair choosing a topic - one speaks For the motion, another Against the motion. Format of the debate will be an Oxford type debate - one speaker at a time with the listeners questioning him/her.</p>
-								<a href="../events.php?id=englishdebate" class="more">Further Detail...</a>
+								<a href="event.php?id=englishdebate" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -150,7 +156,7 @@
                                 </div>
                                 <p> हिंदी भारतवर्ष के हृदय-देश में स्थित करोड़ो नर नारियों के हृदय. 
                                 </p>
-								<a href="../events.php?id=hindiwadviwad" class="more">Further Detail...</a>
+								<a href="event.php?id=hindiwadviwad" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -171,7 +177,7 @@
                                 <p>interviews that simulate the conditions,
  format, questions, and environment of the real interview you will soon have.
 A mock interview delivers a significant advantage to candidates over ones who do not practice with mock interviews.</p>
-<a href="../events.php?id=solocit" class="more">Further Detail...</a>
+<a href="event.php?id=solocit" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -190,7 +196,7 @@ A mock interview delivers a significant advantage to candidates over ones who do
                                     </span>
                                 </div>
                                 <p></p>
-								<a href="../events.php?id=wordsworth" class="more">Further Detail...</a>
+								<a href="event.php?id=wordsworth" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -209,7 +215,7 @@ A mock interview delivers a significant advantage to candidates over ones who do
                                     </span>
                                 </div>
                                 <p>It is quite trivial in the modern world what PPT stands for.It indeed is the way by which people represent themselves.The traditional  way of representing thoughts has been replaced by tech-savvy tools like Powerpoint.... Now is the time to show yourselves!!!!!!!.</p>
-								<a href="../events.php?id=ppt" class="more">Further Detail...</a>
+								<a href="event.php?id=ppt" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -330,141 +336,6 @@ A mock interview delivers a significant advantage to candidates over ones who do
             </a>
         </div>
         <!-- ScrollUp button end -->
-        
-<!-- Include javascript -->
-<script src="js/jquery.js"></script>
-<script type="text/javascript" src="js/jquery.mixitup.js"></script>
-<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"--></script>
-<script type="text/javascript" src="js/bootstrap.js"></script>
-<script type="text/javascript" src="js/modernizr.custom.js"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/jquery.bxslider.js"></script>
-<script type="text/javascript" src="js/jquery.cslider.js"></script>
-<script type="text/javascript" src="js/jquery.placeholder.js"></script>
-<script type="text/javascript" src="js/jquery.inview.js"></script>
-<!-- Load google maps api and call initializeMap function defined in app.js -->
-<script async defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&callback=initializeMap"></script>
-<!-- css3-mediaqueries.js for IE8 or older -->
-        <!--[if lt IE 9]>
-            <script src="js/respond.min.js"></script>
-            <![endif]-->
-            <script type="text/javascript" src="js/app.js"></script>
-
-
-
-
-
-
-            <script>
-            	(function($) {
-            		$(document).ready(function() {
-            			$(".landingpagewrapper").jnormalblog();
-            			$(".landingpagewrapper").jlanding();
-            		});
-            	})(jQuery);
-            </script>
-
-        </section>
-        <div class="rightclickoverlay">
-        	<div class="creditcontainer">
-        		<p class='top'>IERT Web Team</p>
-        		<p class='name'></p>
-        		<span class='break'></span>
-
-        		<p class='title'>CODE BY</p>
-        		<p class='name'>KRIPA</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>DESIGN BY</p>
-        		<p class='name'>SEBU</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>CONTENT BY</p>
-        		<p class='name'>AADIL</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>IMAGE CREDIT</p>
-
-        		<p class='name'>SEBU^2</p>
-
-
-        		<p class='name'>PRAKHAR</p>
-
-        		<p class='name'>CHAUBEY</p>
-
-        		<p class='name'>MONKEY</p>
-
-        		<p class='name'>RAKESH</p>
-
-        		<p class='name'>RAVI</p>
-
-        		<p class='name'>LALLU</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>Organizing Commite</p>
-        		<p class='name'>Gyandeep Mishra</p>
-        		<p class='name'>IERT, Allahabd</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>Date</p>
-        		<p class='name'>8th April 2016</p>
-
-        		<span class='break'></span>
-
-        		
-
-        		
-        		<p class='top'>Thank you</p>	</div>
-
-        		<div class="roverlayclose"></div>
-
-        		<div class="creditaudio">
-        			<audio id="creditaudioplayer" loop>
-        				<source src="http://jegtheme.com/asset/jphotolio/ttfid.mp3" type="audio/mpeg">
-        					<source src="http://jegtheme.com/asset/jphotolio/ttfid.ogg" type="audio/ogg">
-
-        					</audio>
-        				</div> 
-        			</div>
-
-        			<!--script type='text/javascript' src='wp-content/plugins/wp-retina-2x/js/retina.min6f3e.js?ver=1.3.0'></script-->
-        			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/internalmin/jquery.jcommon254d.js?ver=2.3.1'></script>
-<!--script type='text/javascript' src='wp-content/themes/jkreativ/public/js/internalmin/main254d.js?ver=2.3.1'></script>
-	<script type='text/javascript' src='wp-content/themes/jkreativ/public/mediaelementjs/mediaelement-and-player.min254d.js?ver=2.3.1'></script-->
-		<script type='text/javascript'>
-			/* <![CDATA[ */
-			var joption = {
-				"rightclick":"1",
-				"rightclickmsg":"",
-				"enablemegamenu":"0",
-				"menucollapsed":"300",
-				"smallmenuheight":"50",
-				"loaderbackground":"#ffffff",
-				"loaderlinecolor":"#020000"};
-				/* ]]> */
-			</script>
-			<!--For moving background-->
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/external/code.photoswipe.jquery-3.0.5.1.min254d.js?ver=2.3.1'></script>
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/internalmin/jquery.jnormalblog254d.js?ver=2.3.1'></script>
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/external/waypoints254d.js?ver=2.3.1'></script>
-
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/internalmin/jquery.jlanding254d.js?ver=2.3.1'></script>
-			<!--End for moving background-->
-			<!--created By-->
-
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/internalmin/main254d.js?ver=2.3.1'></script>
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/mediaelementjs/mediaelement-and-player.min254d.js?ver=2.3.1'></script>
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/external/essencialplugin254d.js?ver=2.3.1'></script>
-			<script type='text/javascript' src='wp-content/themes/jkreativ/public/js/external/jquery.typer254d.js?ver=2.3.1'></script>
-
-			<!--End Created BY-->
-
-		</body>
-
-
-		</html>
+   <?php
+    include 'footer.php';
+?>
