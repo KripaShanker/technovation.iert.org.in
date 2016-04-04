@@ -38,7 +38,7 @@
                                     </span>
                                 </div>
                                 <p></p>
-								<a href="../events.php?id=spellbee" class="more">Further Detail...</a>
+								<a href="event.php?id=spellbee" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                                     </span>
                                 </div>
                                 <p>If you believe you have innovative skills and great oratory skills, then FLIP THE MOTION beckons you.</p>
-								<a href="../events.php?id=flipthemotion" class="more">Further Detail...</a>
+								<a href="event.php?id=flipthemotion" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                                     </span>
                                 </div>
                                 <p>Contestants are to pair among themselves with each pair choosing a topic - one speaks For the motion, another Against the motion. Format of the debate will be an Oxford type debate - one speaker at a time with the listeners questioning him/her.</p>
-								<a href="../events.php?id=englishdebate" class="more">Further Detail...</a>
+								<a href="event.php?id=englishdebate" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                                 </div>
                                 <p> हिंदी भारतवर्ष के हृदय-देश में स्थित करोड़ो नर नारियों के हृदय. 
                                 </p>
-								<a href="../events.php?id=hindiwadviwad" class="more">Further Detail...</a>
+								<a href="event.php?id=hindiwadviwad" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                 <p>interviews that simulate the conditions,
  format, questions, and environment of the real interview you will soon have.
 A mock interview delivers a significant advantage to candidates over ones who do not practice with mock interviews.</p>
-<a href="../events.php?id=solocit" class="more">Further Detail...</a>
+<a href="event.php?id=solocit" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ A mock interview delivers a significant advantage to candidates over ones who do
                                     </span>
                                 </div>
                                 <p></p>
-								<a href="../events.php?id=wordsworth" class="more">Further Detail...</a>
+								<a href="event.php?id=wordsworth" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +155,7 @@ A mock interview delivers a significant advantage to candidates over ones who do
                                     </span>
                                 </div>
                                 <p>It is quite trivial in the modern world what PPT stands for.It indeed is the way by which people represent themselves.The traditional  way of representing thoughts has been replaced by tech-savvy tools like Powerpoint.... Now is the time to show yourselves!!!!!!!.</p>
-								<a href="../events.php?id=ppt" class="more">Further Detail...</a>
+								<a href="event.php?id=ppt" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
