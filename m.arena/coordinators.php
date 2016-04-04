@@ -105,26 +105,7 @@ include_once 'hd.php';
 	<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > 
 	<?php details('default.png','Ravi Singh Kushwaha','8303210846');?>
 	</div>	
-	
-	<div class="sectioncontainer">		
-			<div class='section-header  position-center'>
-			<p id="sponsors"></p>
-		<h1>Accounts Team</h1>
-		<span class='sectionline'></span>
-		<em>The financial authority..</em>
-	</div> 
-	
-	<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > 
-	<?php details('default.png','Mohit (ME)',' ');?>
-	<?php details('default.png','Pragya Kaushik',' ');?>
-	<?php details('default.png','Abhsihek (CE)',' ');?>
-	</div>
-	<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > 
-	<?php details('default.png','Shubhi (ME)',' ');?>
-	<?php details('default.png','Gyandeep (CS)',' ');?>
-	<?php details('default.png','Paritosh (CS)',' ');?>
-	</div>
-	
+		
 	<div class="sectioncontainer">		
 			<div class='section-header  position-center'>
 			<p id="sponsors"></p>
