@@ -1,6 +1,12 @@
 <!doctype html>
  <html class="no-js" lang="en-US"> <!--<![endif]-->
 
+ 	<script type="text/javascript">
+ 	if(window.width<800){
+ 		window.location="home.php";
+ 	}
+ 	</script>
+
 <head>
   	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
