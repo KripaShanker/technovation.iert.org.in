@@ -60,7 +60,7 @@
 			Rules and Regulations:<br><br> 
 			<textarea name="rules">
 				<?php
-					echo $row['rules'];
+					echo stripslashes($row['rules']);
 				?>
 			</textarea><br><br>
 			Member1 <input type="text" name="member1_image" value="<?php echo $row['member1_image']; ?>" style="width:100%"><br><br>
