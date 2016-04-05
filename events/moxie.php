@@ -59,7 +59,7 @@
 				It is a techno -event about identifying the jumbled up pics of tech equipments.
 After correct recognition is done participants will be shown another equipments on which they will have
 to write down certain valid points. Events consists of two rounds in which each teams needs to qualify both rounds .
-This events is gonna be full of intresting and enthusiasm..</p><a href="event.php?id=Identokit">Further Details...</a></p>
+This events is gonna be full of intresting and enthusiasm..</p><a href="../event.php?id=Identokit">Further Details...</a></p>
 
 			</div> <div class='span6  jeg_do_animate offset1  '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-right" > <img class="aligncenter size-full wp-image-62" src="wp-content/uploads/2014/05/e1.png" alt="identokit"/> </div> </div>
 			<p> </p>
@@ -82,7 +82,7 @@ designed on a Bread Board..
 
 
 			<p style="font-size:1.2em">Design is a communication- intensive activity in which both 
-words and pictures are used, and written and oral forms are employed. If the point of contact between the product and people becomes a point of friction, then the designer has failed. On the other hand, if people are made safer, more efficient, more comfortable- or just plain happier- by contact with the product, then the designer has succeeded.</p><a href="event.php?id=DESIGN MANIA">Further Details...</a></p>
+words and pictures are used, and written and oral forms are employed. If the point of contact between the product and people becomes a point of friction, then the designer has failed. On the other hand, if people are made safer, more efficient, more comfortable- or just plain happier- by contact with the product, then the designer has succeeded.</p><a href="../event.php?id=DESIGN MANIA">Further Details...</a></p>
 
 				
 
@@ -98,7 +98,7 @@ words and pictures are used, and written and oral forms are employed. If the poi
 		<div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' > <div class='span6  jeg_do_animate   '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-left" ><img class="aligncenter size-full wp-image-65" src="wp-content/uploads/2014/05/e3.jpg" alt="landing_4" width="480" height="257" /> </div> <div class='span5  jeg_do_animate offset1  '  data-animation="janimate-fadein"    data-position="janimpos-right" > <div class='clearfix ' style='padding-bottom: 8px'></div>
 		<h3><strong>Smart Idea</strong></h3>
 		<p>
-			<p style="font-size:1.2em">An idea can make or break the moment because it is the first thing the readers see, it will capture their attention or lose their interest.A smart presentation sets the scene,establishes the tone and gives clear idea of what the topic is all about. PRESENTATION can be intimidating for the students,it requires them to be spontaneous, intelectual and at the same time thoughtful also. MODELS can be working ,non working but it should be economical,eco-friendly,efficient and technically viable.</p><a href="event.php?id=Smart Idea">Further Details...</a></p>
+			<p style="font-size:1.2em">An idea can make or break the moment because it is the first thing the readers see, it will capture their attention or lose their interest.A smart presentation sets the scene,establishes the tone and gives clear idea of what the topic is all about. PRESENTATION can be intimidating for the students,it requires them to be spontaneous, intelectual and at the same time thoughtful also. MODELS can be working ,non working but it should be economical,eco-friendly,efficient and technically viable.</p><a href="../event.php?id=Smart Idea">Further Details...</a></p>
 
 			</div> 
 		</div>

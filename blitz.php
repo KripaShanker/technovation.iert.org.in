@@ -72,7 +72,7 @@
 							There is going to be knock out matches between the opponents.Remaining 4 team will go thtrough the final round. 
 							"THE_ FINAL _ SHOWDOWN" 
 							And the one team will stands out as winner.</p>
-							<a href="event.php?id=hurdlemania" class="more">Further Detail...</a>
+							<a href="event.php?id=Hurdle Mania" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
 								2- The winner shall be decided, the team having greater number of goals.<br>
 								3-In case if both teams have zero goals, then winner shall be decided through points.<br>
 								4-Points shall be decided according to the number of time, ball reaches closest to the goal post.</p>
-								<a href="event.php?id=robosoccer" class="more">Further Detail...</a>
+								<a href="event.php?id=RoboSoccer" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>

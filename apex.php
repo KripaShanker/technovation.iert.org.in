@@ -30,7 +30,7 @@
 								Water Rocket is a mechanical event that involves the fabrication of a rocket whose fuel/thrust for flight is obtained by the use of water that is expelled at a large air pressure. It is an example of Newton's third law of motion. The pre requisites for such an event would be a basic knowledge of fabrication, materials and physical calculations involving thrust, air pressure, etc. The event tests a couple of aspects of the Rocket’s flight. These include range, time of flight and accuracy of the launching mechanism.
 								
 								</p>
-								<a href="../events.php?id=rocket propulsion" class="more">Further Detail...</a>
+								<a href="event.php?id=rocket propulsion" class="more">Further Detail...</a>
 								
                             </div>
                         </div>
@@ -53,7 +53,7 @@
 					"When experiences don’t work, ideas do”
 					And after-all it’s all about participation and win.
 					</p>
-					<a href="../events.php?id=BRIDGEIT"  class="more">Further Detail...</a>
+					<a href="event.php?id=BRIDGEIT"  class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -72,9 +72,9 @@
                                     </span>
                                 </div>
                                 <p> What does the sky scrappers bring you in mind at a glance? The height, the immensity, isn’t it. In today’s context skyscrapers are very common. A large portion of the credit goes to the cranes. The cranes lift up heavy load and haul them. Its your turn to bring out the creativity and engineering in you and participate with enthusiasm and win.
-								<a href="../events.php?id=Davit"  class="more">Further Detail...</a>
+								<a href="event.php?id=Davit"  class="more">Further Detail...</a>
 								</p>
-								<a href="../events.php?id=Davit"  class="more">Further Detail...</a>
+								<a href="event.php?id=Davit"  class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                                 </div>
                                 <p>Science is all about creativity. Just different instruments." Ever marveled at the seamlessness with which each event of your life merges into the other creating an inexplicable but beautiful maze of unusual and unexpected things. Ever wondered if you could create art out of engineering. This is an opportunity for you to let your creativity get the better of yourself and create a succession of events that leaves the audience filled with awe and wonder at something completely artless. Take simplicity and make it complex.
 								</p>
-								<a href="../events.php?id=Un-Chained Reaction"  class="more">Further Detail...</a>
+								<a href="event.php?id=Un-Chained Reaction"  class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>

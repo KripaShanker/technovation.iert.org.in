@@ -7,9 +7,9 @@
 	</title>
 	<script type="text/javascript">
  	if(screen.width >= 800){
- 		window.location="http://technovation.iert.org.in/home.php";
+ 		window.location="home.php";
  	}else{
- 		window.location="http://technovation.iert.org.in/mob.php";
+ 		window.location="mob.php";
  	}
  	</script>
 </head>

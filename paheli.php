@@ -25,6 +25,7 @@
                                     </span>
                                 </div>
                                 <p>Quiz related to electrical and electronics engineering .</p>
+                                <a href="event.php?id=E-Quiz">Further Details....</a>
                             </div>
                         </div>
                     </div>
@@ -43,6 +44,7 @@
                                     </span>
                                 </div>
                                 <p>If you know when and how to change the gear in life you can always succeed. . Check Auto Quotient(AQ).</p>
+                            	<a href="event.php?id=AUTO QUIZ">Further Details....</a>
                             </div>
                         </div>
                     </div>
@@ -55,12 +57,13 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>MATDEZI</h3>
+                                    <h3>Modula</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
-                                <p>Working on Matlab.</p>
+                                <p>The primary purpose of TECHNOVATION 2K16 is to promote, showcase and reward the technological developments taking place in this rapidly changing world, and inspire young minds to think, discover and create.Modula provides an unparalleled opportunity for people with scientifically oriented minds, to platform their MODEL in fields varying from Electronics, Electrical, and Computers to Bio-technology and Chemistry. If you possess that clairvoyant vision in technology, if you want to fill this world with innovations and inventions, then MODULA is surely the event for you.Event details:Screening round:-1. The finished model is to be brought to the campus and to be submitted to the Coordinator on the first day of the event.2. The model can be either Working or Non Working model3. The model can be represented by  any medium via:a. power point presentation(.ppt)b. paper presentation including charts, posters,etcFinal  Round:-there will be a technical quiz round based on model </p>
+                                <a href="event.php?id=MODULA">Further Details....</a>
                             </div>
                         </div>
                     </div>
@@ -79,6 +82,7 @@
                                     </span>
                                 </div>
                                 <p>Pounding Hearts,Racing Mind.</p>
+                                 <a href="event.php?id=Quiz it">Further Details....</a>
                             </div>
                         </div>
                     </div>

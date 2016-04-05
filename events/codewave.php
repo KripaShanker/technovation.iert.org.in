@@ -57,7 +57,7 @@
 			<p>
 				<p style="font-size:1.2em">	"The impact you can have as a programmer is huge, as what you create can not just change your life, but lives of millions of others. Coding is probably the fastest way to change the world"</p>
 
-				</p><a href="event.php?id=codervation">Further Details...</a></p>
+				</p><a href="../event.php?id=codervation">Further Details...</a></p>
 
 			</div> <div class='span6  jeg_do_animate offset1  '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-right" > <img class="aligncenter size-full wp-image-62" src="wp-content/uploads/2014/05/codervation.jpg" alt="codervation.jpg"/> </div> </div>
 			<p> </p>
@@ -66,7 +66,7 @@
 			<p><p style="font-size:1.2em">“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” 
 				– Brian W. Kernighan 
 			</p>
-			</p><a href="event.php?id=bugdecode">Further Details...</a></p>
+			</p><a href="../event.php?id=bugdcode">Further Details...</a></p>
 			
 
 
@@ -80,7 +80,7 @@
 			<p style="font-size:1.2em">If you’re not using mobile marketing to attract new customers to your business, don’t worry your competitors are already using it and are getting those customers instead. 
 				– Jamie Turner</p>
 
-			</p><a href="event.php?id=appmania">Further Details...</a></p>
+			</p><a href="../event.php?id=appmania">Further Details...</a></p>
 				
 
 
@@ -98,7 +98,7 @@
 			<p style="font-size:1.2em">“If you think math is hard, try web design.” 
 				―Trish Parr</p>
 
-				</p><a href="event.php?id=webdextro">Further Details...</a></p>
+				</p><a href="../event.php?id=webdextro">Further Details...</a></p>
 				
 
 
@@ -114,7 +114,7 @@
 
 			<p style="font-size:1.2em">If you're a beginner - practice with your friends, read blogs of top programmers, solve easy challenges and improve with regular practice</p>
 
-			</p><a href="event.php?id=clegacy">Further Details...</a></p>
+			</p><a href="../event.php?id=clegacy">Further Details...</a></p>
 
 		</div> <div class='span6  jeg_do_animate offset1  '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-right" > <img class="aligncenter size-full wp-image-62" src="wp-content/uploads/2014/05/clegacy.png" alt="rocket.png"/> </div> </div>
 		<p> </p>
@@ -124,7 +124,7 @@
 			<p style="font-size:1.2em">We create the hardware and we create the software, the hardware makes maximum of software and software make maximun of hardware.
 				―Apple Inc.
 			</p>
-			</p><a href="event.php?id=codervation">Fast-Boot...</a></p>
+			</p><a href="../event.php?id=fastboot">further details...</a></p>
 
 		</div> </div>
 		<p> </p>
@@ -132,7 +132,7 @@
 		<h3><strong>Questionnaire</strong></h3>
 		<p> 
 			<p style="font-size:1.2em">I love anything quiz related.. -Natasha Hamilton</p>
-			</p><a href="event.php?id=questionnaire">Further Details...</a></p>
+			</p><a href="../event.php?id=questionnaire">Further Details...</a></p>
 		</div> <div class='span6  jeg_do_animate offset1  '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-right" > 
 		<blockquote>
 			<p><img class="aligncenter size-full wp-image-64" src="wp-content/uploads/2014/05/Questionnaire.jpg" alt="landing_3" width="480" height="265" /> </p>
@@ -145,7 +145,7 @@
 		<p style="font-size:1.2em">A picture is worth a thousand words</p>
 		The above is a very famus old saying so take out your canvas and start drawing, and mail it to <a href="mailto:canvas@iert.org.in">canvas@iert.org.in</a> and we will share it on our technovation page.
 		Likes contribute for 50%, design 30%, idea 20%.
-		</p><a href="event.php?id=canvas">Further Details...</a></p>
+		</p><a href="../event.php?id=canvas">Further Details...</a></p>
 
 	</div> 
 </div>
@@ -157,7 +157,7 @@
 <p></p>
 
 	Is your typing speed is fast enough to win this event, come and compete to test your level of typing with your peers. Start practising because practise is key to success.
-	</p><a href="event.php?id=typeracer">Further Details...</a></p>
+	</p><a href="../event.php?id=typeracer">Further Details...</a></p>
 	</div> 
 	
 	<div class='span6  jeg_do_animate offset1  '  data-animation="janimate-fadein"   data-transform="janimate-scale"   data-position="janimpos-right" > <img class="aligncenter size-full wp-image-62" src="wp-content/uploads/2014/05/typeracer.png" alt="typeracer.png"/> </div> </div>
@@ -169,7 +169,7 @@
 		</p>
 		A same program can be written in many ways. A same problem can be solved by different ways.
 		Get set to write as small as you can to solve a problem to win this contest because every character you type is count.
-		</p><a href="event.php?id=codegolf">Further Details...</a></p>
+		</p><a href="../event.php?id=codegolf">Further Details...</a></p>
 	</div> </div>
 
 

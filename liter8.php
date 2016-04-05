@@ -1,66 +1,8 @@
-<<<<<<< HEAD:m.arena/liter8.html
-<!doctype html>
 
-<html class="no-js" lang="en-US">
-
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
-
-
-	<title>Liter 8 | Technovation 2k16</title>
-
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<!-- Load css styles -->
-
-	<link rel='stylesheet' id='jeg-normalize-css'  href='wp-content/themes/jkreativ/style254d.css?ver=2.3.1' type='text/css' media='all' />
-
-	<link rel='stylesheet' id='jeg-maincss-css'  href='wp-content/themes/jkreativ/public/css/main254d.css?ver=2.3.1' type='text/css' media='all' />
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" />
-	<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"--> 
-	<link rel="stylesheet" type="text/css" href="css/style.css" />
-	<link rel="stylesheet" type="text/css" href="css/pluton.css" />
-        <!--[if IE 7]>
-            <link rel="stylesheet" type="text/css" href="css/pluton-ie7.css" />
-            <![endif]-->
-            <link rel="stylesheet" type="text/css" href="css/animate.css" />
-            <!-- Fav and touch icons -->
-
-
-            <link rel='stylesheet' id='jeg_font_0-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' type='text/css' media='all' />
-            <link rel='stylesheet' id='jeg_font_1-css'  href='https://fonts.googleapis.com/css?family=Lato:400,700' type='text/css' media='all' />
-            <link rel='stylesheet' id='jeg_font_2-css'  href='https://fonts.googleapis.com/css?family=Playfair+Display:400normal,italic' type='text/css' media='all' />
-
-
-
-<!--[if gte IE 9]>
-	<style type="text/css">
-		.#mega_main_menu,
-		.#mega_main_menu *
-		{
-			filter: none;
-		}
-	</style>
-	<![endif]-->
-	<style>
-
-		.section{
-			padding:40px;
-		}
-		a:link{
-			color: #FECE1A;
-			font-weight: bold;
-		}
-	</style>
-</head>
-<body class="normaltopmargin normalbottommargin  light   movingbg  " data-id="customizer" data-title="Theme Customizer" data-direction='horizontal'  style=" background-image : url(customizer_bg.png);">
-
-=======
 <?php
     include 'header.php';
 ?>
->>>>>>> 67d3cb930ac7841df9c37c1467c96341818cfdd6:m.arena/liter8.php
+
     
        
         <!-- Start home section -->
@@ -97,8 +39,8 @@
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
-                                <p></p>
-								<a href="event.php?id=spellbee" class="more">Further Detail...</a>
+                                <p>The advent of urban lingo and SMS languages have somewhat polluted our sense of spelling. �You� is now �u�. �We� is now �v�. Somewhere down the line, proper English spellings have taken a heavy beating. But if you belong to the old school and firmly swear good ol� �Oxford English Dictionary� then this is just the right event for you! .So grab your chance and go give it a try.</p>
+								<a href="event.php?id=Spell-Bee" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +59,7 @@
                                     </span>
                                 </div>
                                 <p>If you believe you have innovative skills and great oratory skills, then FLIP THE MOTION beckons you.</p>
-								<a href="event.php?id=flipthemotion" class="more">Further Detail...</a>
+								<a href="event.php?id=FLIP THE MOTION" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +78,7 @@
                                     </span>
                                 </div>
                                 <p>Contestants are to pair among themselves with each pair choosing a topic - one speaks For the motion, another Against the motion. Format of the debate will be an Oxford type debate - one speaker at a time with the listeners questioning him/her.</p>
-								<a href="event.php?id=englishdebate" class="more">Further Detail...</a>
+								<a href="event.php?id=English Debate" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +119,7 @@
                                 <p>interviews that simulate the conditions,
  format, questions, and environment of the real interview you will soon have.
 A mock interview delivers a significant advantage to candidates over ones who do not practice with mock interviews.</p>
-<a href="event.php?id=solocit" class="more">Further Detail...</a>
+<a href="event.php?id=SOLICIT" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
@@ -215,7 +157,7 @@ A mock interview delivers a significant advantage to candidates over ones who do
                                     </span>
                                 </div>
                                 <p>It is quite trivial in the modern world what PPT stands for.It indeed is the way by which people represent themselves.The traditional  way of representing thoughts has been replaced by tech-savvy tools like Powerpoint.... Now is the time to show yourselves!!!!!!!.</p>
-								<a href="event.php?id=ppt" class="more">Further Detail...</a>
+								<a href="event.php?id=PPT" class="more">Further Detail...</a>
                             </div>
                         </div>
                     </div>
