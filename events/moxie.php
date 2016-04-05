@@ -71,7 +71,7 @@ This events is gonna be full of intresting and enthusiasm..</p><a href="event.ph
 			<p><p style="font-size:1.2em">You have to design a specific electronics application by using the components provided by us. 
 The application will use the concepts from basic Analog and Digital electronics and to be
 designed on a Bread Board..
-			</p><a href="event.php?id=CIRKITEX">Further Details...</a></p>
+			</p><a href="../event.php?id=CIRKITEX">Further Details...</a></p>
 
 
 		</div> </div>
