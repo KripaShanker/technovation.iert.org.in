@@ -14,77 +14,37 @@
 </div> <!-- .container -->
 </div> <!-- .jviewport --> 		 				
 <div class="rightclickoverlay">
-	<div class="creditcontainer">
-		<p class='top'>IERT Web Team</p>
-		<p class='name'></p>
-		<span class='break'></span>
+
+		<div class="creditcontainer">
+		<p class='top'>Web Team, IERT</p>
+		<p class='name'>Explore youre potential</p>
+
 
 		<p class='title'>CODE BY</p>
-		<p class='name'>KRIPA</p>
+		<?php details('kripa.jpg','Kripashanker','');?>
 
-		<span class='break'></span>
+
 
 		<p class='title'>DESIGN BY</p>
-		<p class='name'>SEBU</p>
+		<?php details('prakhar.jpg','Prakhar Srivastava','');?>
+
+
+		<p class='title'>Image Credits</p>
+
+		<?php details('ajay.jpg','Ajay Pandey','');?>
+		<?php details('shubham.jpg','shubham Singh','');?>
+		<?php details('ravi.jpg','Ravi','');?>
+
+		<p class='title'>Special Thanks </p>
+		<?php details('sanjay.jpg','Sanjay Patel','');?>
+		
+
+
 
 		<span class='break'></span>
+		<p class='top'>Thank you</p>	
+	</div>
 
-		<p class='title'>CONTENT BY</p>
-		<p class='name'>AADIL</p>
-
-		<span class='break'></span>
-
-		<p class='title'>IMAGE CREDIT</p>
-
-		<p class='name'>SEBU^2</p>
-
-
-		<p class='name'>PRAKHAR</p>
-
-		<p class='name'>CHAUBEY</p>
-
-		<p class='name'>MONKEY</p>
-
-		<p class='name'>RAKESH</p>
-
-		<p class='name'>RAVI</p>
-
-		<p class='name'>LALLU</p>
-
-		<span class='break'></span>
-
-		<p class='title'>VIDEO CREDIT</p>
-		<p class='name'>Bali Indonesia</p>
-		<p class='name'>Southern Hills Country Club wedding - PenWeddings</p>
-
-		<span class='break'></span>
-
-		<p class='title'>MUSIC CREDIT</p>
-		<p class='name'>Janice Lacey - Soundcloud</p>
-
-		<span class='break'></span>
-
-		<p class='title'>JAVASCRIPT CREDIT</p>
-		<p class='name'>JQUERY</p>
-		<p class='name'>BOOTSTRAP</p>
-		<p class='name'>PHOTOSWIPE - by COMPUTERLOVE</p>
-		<p class='name'>FOTORAMA - by ARTEM POLIKARPOV</p>
-		<p class='name'>IOS-SLIDER - by IOSSCRIPT</p>
-		<p class='name'>ISOTOPE - by METAFIZZY</p>
-		<p class='name'>MAGNIFIC-POPUP - by DIMITRY SEMENOV</p>
-		<p class='name'>SHARRRE - by JULIEN HANY</p>
-		<p class='name'>SLITSLIDER - by MARY LOU</p>
-		<p class='name'>SWIPEBOX - by BRUTAL DESIGN</p>
-		<p class='name'>TUBULAR - by SEAN MCCAMBRIDGE</p>
-		<p class='name'>TYPER - by LAYERVAULT</p>
-		<p class='name'>KENBURN - by TOYMAKERLABS</p>
-		<p class='name'>NPPROGRESS - by RICO STA. CRUZ</p>
-		<p class='name'>ODOMETER - by HUBSPOT</p>
-		<p class='name'>OWL CAROUSEL - by OWLGRAPHIC</p>
-		<p class='name'>WAYPOINT - by CALEB TROUGHTON</p>
-
-		<span class='break'></span>
-		<p class='top'>Thank you</p>	</div>
 		
 		<div class="roverlayclose"></div>
 		

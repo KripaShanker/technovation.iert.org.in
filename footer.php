@@ -1,3 +1,17 @@
+<?php
+function details($img,$name,$mob)
+{
+
+    if($img==null)
+    {
+        $img="default.png";
+    }
+
+    echo "<img style='border-radius:50%'  width='150' src='coordinator_image/$img' />
+    <p style='text-align: center;'><strong>$name</strong><br>$mob</p>";
+}
+?>
+
 
 <!-- Include javascript -->
 <script src="js/jquery.js"></script>
@@ -35,59 +49,34 @@
         </section>
         <div class="rightclickoverlay">
         	<div class="creditcontainer">
-        		<p class='top'>IERT Web Team</p>
-        		<p class='name'></p>
-        		<span class='break'></span>
-
-        		<p class='title'>CODE BY</p>
-        		<p class='name'>KRIPA</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>DESIGN BY</p>
-        		<p class='name'>SEBU</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>CONTENT BY</p>
-        		<p class='name'>AADIL</p>
-
-        		<span class='break'></span>
-
-        		<p class='title'>IMAGE CREDIT</p>
-
-        		<p class='name'>SEBU^2</p>
+        <p class='top'>Web Team, IERT</p>
+        <p class='name'>Explore youre potential</p>
 
 
-        		<p class='name'>PRAKHAR</p>
+        <p class='title'>CODE BY</p>
+        <?php details('kripa.jpg','Kripashanker','');?>
 
-        		<p class='name'>CHAUBEY</p>
 
-        		<p class='name'>MONKEY</p>
 
-        		<p class='name'>RAKESH</p>
+        <p class='title'>DESIGN BY</p>
+        <?php details('prakhar.jpg','Prakhar Srivastava','');?>
 
-        		<p class='name'>RAVI</p>
 
-        		<p class='name'>LALLU</p>
+        <p class='title'>Image Credits</p>
 
-        		<span class='break'></span>
+        <?php details('ajay.jpg','Ajay Pandey','');?>
+        <?php details('shubham.jpg','shubham Singh','');?>
+        <?php details('ravi.jpg','Ravi','');?>
 
-        		<p class='title'>Organizing Commite</p>
-        		<p class='name'>Gyandeep Mishra</p>
-        		<p class='name'>IERT, Allahabd</p>
+        <p class='title'>Special Thanks </p>
+        <?php details('sanjay.jpg','Sanjay Patel','');?>
+        
 
-        		<span class='break'></span>
 
-        		<p class='title'>Date</p>
-        		<p class='name'>8th April 2016</p>
 
-        		<span class='break'></span>
-
-        		
-
-        		
-        		<p class='top'>Thank you</p>	</div>
+        <span class='break'></span>
+        <p class='top'>Thank you</p>    
+    </div>
 
         		<div class="roverlayclose"></div>
 
