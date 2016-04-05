@@ -16,8 +16,11 @@ if(isset($_GET['submit'])){
 
 //  mail($email,$subject,$txt,$headers);
   $data=$name." ".$event." ".$email." ".$facebookid." ".$college." ".$year." ".$branch." ".$contact." ".$rollno;
-  if(mail("iamkripashanker@gmail.com", "technovation reg", $data) && mail($email,$subject,$txt,$headers))
+  if(mail("iamkripashanker@gmail.com", "technovation reg", $data) && mail($email,$subject,$txt,$headers)){
     $status="You are successfuly registed".$data;
+    mail("mohit.rocksingh09@gmail.com",$subject,"Dear admin,\n $name has registered for $event in technovation.\n",$headers);
+    mail("mohit_26e4u@gamil.com",$subject,"Dear admin,\n $name has registered for $event in technovation.\n",$headers);
+   }
   else
    $error="An error occuered, please try again after sometime";
 
