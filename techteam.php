@@ -58,6 +58,7 @@ include_once 'hd.php';
 		</div><div class='row-fluid   jeg_animate_sequence jeg_animate_fast fast '  data-speed='150' data-offset='90' >
 		<?php details('sanjay.jpg','Sanjay Patel',' ');?>
 		<?php details('shubham.jpg','Shubham Singh',' ');?>
+		<?php details('shubham_verma.jpg','Shubham Verma',' ');?>
 	</div>
 
 	
