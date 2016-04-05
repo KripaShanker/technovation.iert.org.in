@@ -239,21 +239,22 @@ a:hover img.portfo-layout {opacity: 1}
 			<img style="" width="15%" src="wp-content/uploads/2014/05/logo.png" alt="LOGO"/>
 		</a>
 	</div>
-	<div class="navright mobile-search-trigger">
+	<div class="navright">
 		<div class="navrightinner">
-			<div class="navrightwrapper"><!--<span class="iconlist"></span>--></div>
+				<div class="navrightwrapper"><a href="registration.php"><img src="reg.jpg"></a></div>
 		</div>
 	</div>
 
-	<div class="mobilesearch">
-		<!--<form method="get" action="http://jkreativ.jegtheme.com/">
+	<!--<div class="mobilesearch">
+		<form method="get" action="http://jkreativ.jegtheme.com/">
 	<input type="text" autocomplete="off" name="s" placeholder="Type and Enter to Search">
-</form>-->		<div class="closemobilesearch">
+</form>		<div class="closemobilesearch">
 			<span class="fa fa-times"></span>
 		</div>
-	</div>
+	</div>-->
 </div>
-<div class="responsiveheader-wrapper"></div>			<div id="leftsidebar">
+<div class="responsiveheader-wrapper"></div>			
+<div id="leftsidebar">
 	<div class="lefttop">
 				<div class="logo" style="padding-top: 40px; padding-bottom: 40px;">
 			<a href="index.html">
@@ -299,12 +300,15 @@ a:hover img.portfo-layout {opacity: 1}
 </div>
 
 	<div class="leftfooter">
+		
 		<div class="leftfooterwrapper">
-			
-            
+			           
+		<a style="text-aling:center;" href='registration.php' width="100px"><img src="reg.jpg"></a>
 				<div class="footsocial">
 		<ul>
-		<li><a target='_blank' href='https://www.facebook.com/technovationiert' class='social-facebook'><i class='fa fa-facebook'></i></a></li>
+		<li><a target='_blank' href='https://www.facebook.com/technovationiert' class='social-facebook'><i class='fa fa-facebook'></i></a>
+		</li>
+		
 		</ul>	</div>
 			<div class="footcopy">
 				© Technovation 2016. All Rights Reserved. 			</div>
@@ -314,11 +318,13 @@ a:hover img.portfo-layout {opacity: 1}
 	<div class="csbwrapper">
 		<div class="cbsheader">
 			<div class="csbhicon"></div>
+			<a href='registration.php'><img src="reg.jpg"></a>
 		</div>
 		<div class="csbfooter">
 			<ul>
 				<li><a target='_blank' href='https://www.facebook.com/technovationiert' class='social-facebook'><i class='fa fa-facebook'></i></a></li>
-				</ul>		</div>
+				</ul>		
+			</div>
 	</div>
 
 </div>			<div id="rightsidecontainer">
