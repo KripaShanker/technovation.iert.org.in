@@ -244,8 +244,8 @@ Harbour.Space on our Twitter and Facebook.</p>
 				</strong>
 				<span class='peoples__item__note'>
 				";
-				                     if($rows['lead_contact'])
-									echo " $rows[lead_contact]";
+				                     if($rows['lead_email'])
+									echo " $rows[lead_email]";
 								
 						echo "				
 				</span>
@@ -272,8 +272,8 @@ Harbour.Space on our Twitter and Facebook.</p>
 				</strong>
 				<span class='peoples__item__note'>
 				";
-				                     if($rows['member1_contact'])
-									echo " $rows[member1_contact]";
+				                     //if($rows['member1_contact'])
+									//echo " $rows[member1_contact]";
 								
 						echo "				
 				</span>
@@ -300,8 +300,8 @@ Harbour.Space on our Twitter and Facebook.</p>
 				</strong>
 				<span class='peoples__item__note'>
 				";
-				                     if($rows['member2_contact'])
-									echo " $rows[member2_contact]";
+				                     //if($rows['member2_contact'])
+									//echo " $rows[member2_contact]";
 								
 						echo "				
 				</span>
@@ -328,8 +328,8 @@ Harbour.Space on our Twitter and Facebook.</p>
 				</strong>
 				<span class='peoples__item__note'>
 				";
-				                     if($rows['member3_contact'])
-									echo " $rows[member3_contact]";
+				                     //if($rows['member3_contact'])
+									//echo " $rows[member3_contact]";
 								
 						echo "				
 				</span>
@@ -357,7 +357,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 				<span class='peoples__item__note'>
 				";
 				                     if($rows['member4_contact'])
-									echo " $rows[member4_contact]";
+									//echo " $rows[member4_contact]";
 								
 						echo "				
 				</span>
@@ -384,8 +384,8 @@ Harbour.Space on our Twitter and Facebook.</p>
 				</strong>
 				<span class='peoples__item__note'>
 				";
-				                     if($rows['member5_contact'])
-									echo " $rows[member5_contact]";
+				                     //if($rows['member5_contact'])
+									//echo " $rows[member5_contact]";
 								
 						echo "				
 				</span>
