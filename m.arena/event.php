@@ -273,7 +273,7 @@ Harbour.Space on our Twitter and Facebook.</p>
 				<span class='peoples__item__note'>
 				";
 				                     if($rows['member1_contact'])
-									echo " $rows[lead_contact]";
+									echo " $rows[member1_contact]";
 								
 						echo "				
 				</span>
