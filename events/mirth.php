@@ -7,11 +7,8 @@
 	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
 
 
-<<<<<<< HEAD
-  	<title>Mirth | TECHNOVATION 2k16</title>
-=======
   	<title>Mirth | Technovation 2k16</title>
->>>>>>> f65cd40f1cc3d440823c0b18414adf754e32c714
+
 		
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- Load css styles -->

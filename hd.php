@@ -1,9 +1,5 @@
 <!doctype html>
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
-<!--[if IE 9]>    <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+ <html class="no-js" lang="en-US"> <!--<![endif]-->
 
 <head>
   	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -11,8 +7,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	
   	<title>TECHNOVATION 2K16</title>
-<link rel="alternate" type="application/rss+xml" title="Jkreativ by Jegtheme &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Jkreativ by Jegtheme &raquo; Comments Feed" href="comments/feed/index.html" />
+
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/jkreativ.jegtheme.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.3"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -47,52 +42,6 @@ img.emoji {
 <link rel='stylesheet' id='jeg-responsive-css'  href='wp-content/themes/jkreativ/public/css/responsive254d.css?ver=2.3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='switch_style-css'  href='wp-content/themes/jkreativ/public/css/normal254d.css?ver=2.3.1' type='text/css' media='all' />
 <style id='switch_style-inline-css' type='text/css'>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 	body { color : #6b6b6b }
@@ -197,18 +146,18 @@ a:hover img.portfo-layout {opacity: 1}
     <h2>Menu</h2>
     <ul id="menu-mobile-menu" class="">
 	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="#">Events</a></li>
-	<li id="menu-item-331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-331 bgnav childindent "><a href="codewave.html">&nbsp;&nbsp;— &nbsp;&nbsp;CodeWave</a></li>
-	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329 bgnav childindent "><a href="blitz.html">&nbsp;&nbsp;— &nbsp;&nbsp;Blitzobotics</a></li>
-	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="apex.html">&nbsp;&nbsp;— &nbsp;&nbsp;Apex</a></li>
-	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="moxie.html">&nbsp;&nbsp;— &nbsp;&nbsp;Moxie</a></li>
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="liter8.html">&nbsp;&nbsp;— &nbsp;&nbsp;Liter-8</a></li>
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="paheli.html">&nbsp;&nbsp;— &nbsp;&nbsp;Paheli</a></li>	
-<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="mirth.html">&nbsp;&nbsp;— &nbsp;&nbsp;Mirth</a></li>
+	<li id="menu-item-331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-331 bgnav childindent "><a href="codewave.php">&nbsp;&nbsp;— &nbsp;&nbsp;CodeWave</a></li>
+	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329 bgnav childindent "><a href="blitz.php">&nbsp;&nbsp;— &nbsp;&nbsp;Blitzobotics</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="apex.php">&nbsp;&nbsp;— &nbsp;&nbsp;Apex</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="moxie.php">&nbsp;&nbsp;— &nbsp;&nbsp;Moxie</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="liter8.php">&nbsp;&nbsp;— &nbsp;&nbsp;Liter-8</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="paheli.php">&nbsp;&nbsp;— &nbsp;&nbsp;Paheli</a></li>	
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330 bgnav childindent "><a href="mirth.php">&nbsp;&nbsp;— &nbsp;&nbsp;Mirth</a></li>
 	
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="coordinators.html">Coordinators</a></li>	
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="techteam.html">Technical Team</a></li>
-	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="alumni.html#sponsors">Sponsors</a></li>
-	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="alumni.html#alumni">Alumni</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="coordinators.php">Coordinators</a></li>	
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="techteam.php">Technical Team</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 bgnav"><a href="alumni.php#sponsors">Sponsors</a></li>
+	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 bgnav"><a href="alumni.php#alumni">Alumni</a></li>
 	
 </ul></div>
 	<!--Menu in Responsive template-->
@@ -235,7 +184,7 @@ a:hover img.portfo-layout {opacity: 1}
 		</div>
 	</div>
 		<div class="logo">
-		<a href="index.html">
+		<a href="index.php">
 			<img style="" width="15%" src="wp-content/uploads/2014/05/logo.png" alt="LOGO"/>
 		</a>
 	</div>
@@ -257,7 +206,7 @@ a:hover img.portfo-layout {opacity: 1}
 <div id="leftsidebar">
 	<div class="lefttop">
 				<div class="logo" style="padding-top: 40px; padding-bottom: 40px;">
-			<a href="index.html">
+			<a href="index.php">
 				<img style="width : 167px; height: 30px;" src="wp-content/uploads/2014/05/logo.png" alt="LOGO"/>
 			</a>
 		</div>
@@ -268,29 +217,29 @@ a:hover img.portfo-layout {opacity: 1}
 		<div class="menu_inner">
 				<ul id="mega_main_menu_ul" class="mega_main_menu_ul"><li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-141 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns2"><a href="#" class="item_link  with_icon"><i class="fa fa-behance-square"></i> <span><span class="link_text">Events</span></span></a>
 <ul class="mega_dropdown" style=" padding-right: 30px;  padding-bottom: 80px;  background-image:url(wp-content/uploads/2014/05/navside_purpose.jpg);background-repeat:no-repeat;background-attachment:scroll;background-position:bottom left;background-size:auto;" >
-	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-chain-broken"></i> <span><a href="codewave.html"><span class="link_text">CodeWave</span></a></span></span>
+	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-chain-broken"></i> <span><a href="events/codewave.php"><span class="link_text">CodeWave</span></a></span></span>
 	</li>
-	<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-leaf"></i> <span><a href="blitz.html"><span class="link_text">Blitzobotics</span></a></span></span>
+	<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-144  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-leaf"></i> <span><a href="events/blitz.php"><span class="link_text">Blitzobotics</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="apex.html"><span class="link_text">Apex</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="events/apex.php"><span class="link_text">Apex</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="moxie.html"><span class="link_text">Moxie</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="events/moxie.php"><span class="link_text">Moxie</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="liter8.html"><span class="link_text">Liter-8</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="events/liter8.php"><span class="link_text">Liter-8</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="paheli.html"><span class="link_text">Paheli</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="events/paheli.php"><span class="link_text">Paheli</span></a></span></span>
 	</li>
-	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="mirth.html"><span class="link_text">Mirth</span></a></span></span>
+	<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-143  default_style   submenu_default_width columns" style="width:50%;"><span class="item_link  disable_icon"><i class="fa fa-jpy"></i> <span><a href="events/mirth.php"><span class="link_text">Mirth</span></a></span></span>
 	</li>
 
 </ul></li>
-<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="coordinators.html" class="item_link  with_icon"><i class="fa fa-caret-square-o-left"></i> <span><span class="link_text">Coordinators</span></span></a>
+<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="coordinators.php" class="item_link  with_icon"><i class="fa fa-caret-square-o-left"></i> <span><span class="link_text">Coordinators</span></span></a>
 </li>
-<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="techteam.html" class="item_link  with_icon"><i class="fa fa-reddit"></i> <span><span class="link_text">Technical Team</span></span></a>
+<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-180 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="techteam.php" class="item_link  with_icon"><i class="fa fa-reddit"></i> <span><span class="link_text">Technical Team</span></span></a>
 </li>
-<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.html#sponsors" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Sponsors</span></span></a>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.php#sponsors" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Sponsors</span></span></a>
 </li>
-<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.html#alumni" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Alumni</span></span></a>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-202 multicolumn_dropdown default_style drop_to_right  submenu_default_width columns3"><a href="alumni.php#alumni" class="item_link  with_icon"><i class="fa fa-spotify"></i> <span><span class="link_text">Alumni</span></span></a>
 </li>
 </li>
 </ul><!-- /class="mega_main_menu_ul" -->
