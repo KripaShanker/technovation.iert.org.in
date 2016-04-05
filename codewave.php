@@ -260,7 +260,7 @@
 				<!-- Start details for portfolio project 9 -->
 				<div id="slidingDiv8" class="toggleDiv row-fluid single-project">
 					<div class="span6">
-						<img src="images/Portfolio01.png" alt="project 9">
+						<img src="wp-content/uploads/2014/05/typeracer.png" alt="project 9">
 					</div>
 					<div class="span6">
 						<div class="project-description">
@@ -394,7 +394,7 @@
 						<li class="span4 mix identity">
 							<div class="thumbnail">
 								<img src="wp-content/uploads/2014/05/codegolf.png" alt="project 9">
-								<a href="#single-project" class="show_hide more" rel="#slidingDiv8">
+								<a href="#single-project" class="show_hide more" rel="#slidingDiv9">
 									<i class="icon-plus"></i>
 								</a>
 								<h3>Code-Golf</h3>

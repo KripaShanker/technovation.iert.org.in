@@ -33,7 +33,7 @@ if(isset($_GET['submit'])){
 <meta name="author" content="">
 <link rel="icon" href="image/photo.jpg">
 
-<title>Questionnair</title>
+<title>Registration Technovation 2k16</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">   
 </head>
