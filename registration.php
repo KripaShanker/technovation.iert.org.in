@@ -96,9 +96,7 @@ if(isset($_GET['submit'])){
    <div class="form-group">
 
 
-     <div class="col-xs-4">
-       <label for="InputRollNo">University Roll-No.</label> <input type="text" name="rollno" class="form-control" placeholder="1234567890" required="">  
-     </div>
+     
      <div class="col-xs-8">
        <label for="InputName">Email</label> <input type="text" class="form-control" name="email" placeholder="abc@gmail.com" required=""><br>
      </div>
@@ -108,9 +106,7 @@ if(isset($_GET['submit'])){
     <div class="col-xs-4">
      <label for="InputName">Contact No.</label> <input type="text" class="form-control" name="contact" placeholder="1234567890" required="">						
    </div>	
-   <div class="col-xs-8">
-     <label for="InputName">Facebook-id</label>	<input type="text" class="form-control" name="facebookid" placeholder="facebook.com/____________" required=""><br>
-   </div>
+   
  </div>
 
  <label for="InputName">Address</label>
