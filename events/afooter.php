@@ -1,3 +1,16 @@
+<?php
+function details($img,$name,$mob)
+{
+
+    if($img==null)
+    {
+        $img="default.png";
+    }
+
+    echo "<img style='border-radius:50%'  width='150' src='coordinator_image/$img' />
+    <p style='text-align: center;'><strong>$name</strong><br>$mob</p>";
+}
+?>
 <script>
 					(function($) {
 						$(document).ready(function() {
